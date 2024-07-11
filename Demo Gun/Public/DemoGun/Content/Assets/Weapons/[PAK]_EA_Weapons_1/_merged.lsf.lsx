@@ -9,11 +9,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="ID" type="FixedString" value="73d26204-0156-4516-8361-5a33a9ca4517" /> <!--UUID for the image!-->
-					<attribute id="Name" type="LSString" value="ATO_Demo_Gun" />
+					<attribute id="Name" type="LSString" value="ATO_DemoGun" />
 					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/DemoGun/Assets/Weapons/ATO/ATO_DemoGun/Resources/ATO_Flintlock_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="ATO_Demo_Gun" />
+					<attribute id="Template" type="FixedString" value="ATO_DemoGun" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="1024" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -22,11 +22,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="ID" type="FixedString" value="37d376fd-3b28-4535-b90c-4fdbcd6f9152" /> <!--UUID for the image!-->
-					<attribute id="Name" type="LSString" value="ATO_Demo_Gun" />
+					<attribute id="Name" type="LSString" value="ATO_DemoGun" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/DemoGun/Assets/Weapons/ATO/ATO_DemoGun/Resources/ATO_Flintlock_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="ATO_Demo_Gun" />
+					<attribute id="Template" type="FixedString" value="ATO_DemoGun" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="1024" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -35,11 +35,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="ID" type="FixedString" value="2c76ed0c-fdfc-453b-9b36-359ccf96fb86" /> <!--UUID for the image!-->
-					<attribute id="Name" type="LSString" value="ATO_Demo_Gun" />
+					<attribute id="Name" type="LSString" value="ATO_DemoGun" />
 					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/DemoGun/Assets/Weapons/ATO/ATO_DemoGun/Resources/ATO_Flintlock_PM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="ATO_Demo_Gun" />
+					<attribute id="Template" type="FixedString" value="ATO_DemoGun" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="1024" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />

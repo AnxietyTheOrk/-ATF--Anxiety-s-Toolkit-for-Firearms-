@@ -9,7 +9,7 @@
           <attribute id="Author" type="LSString" value="AnxietyTheOrk" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
           <attribute id="Description" type="LSString" value="A toolkit for mod authors to create firearms compatible with the Firearms mod and future mods." />
-          <attribute id="Folder" type="LSString" value="ATF (Anxiety's Toolkit for Firearms)" />
+          <attribute id="Folder" type="LSString" value="AnxietysToolkitForFirearms" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
@@ -22,10 +22,10 @@
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
           <attribute id="UUID" type="FixedString" value="3d8d1d3b-c8e3-4dba-ae6f-19da85bc6f6c" />
-          <attribute id="Version64" type="int64" value="36028797018963968" />
+          <attribute id="Version64" type="int64" value="36028797018963969" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version64" type="int64" value="36028797018963968" />
+              <attribute id="Version64" type="int64" value="36028797018963969" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">

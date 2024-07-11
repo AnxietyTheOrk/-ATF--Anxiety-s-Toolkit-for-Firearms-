@@ -1,6 +1,6 @@
 //Demo Gun
 
-new entry "ATO_Demo_Gun"
+new entry "ATO_DemoGun"
 type "Weapon"
 using "_Firearm_Pistol"
 data "RootTemplate" "81621539-a1e7-492a-9607-283d15b94ffb"
