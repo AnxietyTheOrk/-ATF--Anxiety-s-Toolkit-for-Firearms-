@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="hb692195ag8aafg4e55g8a14g54e5bcdd5ab2" version="1">Reloading</content>
+  <content contentuid="h28146f59gb3f1g4d78g94dag6fe13ad93af7" version="1">Firearms must be reloaded after firing.</content>
+  <content contentuid="h5972a8afgfde1g4a5egae69g52e3bed1a10a" version="1">Firearm Proficiency</content>
+  <content contentuid="h23186039gdea0g46c7g9941gabea36377ce6" version="1">Gain Proficiency with Firearms</content>
+  <content contentuid="hb74bec0eg184fg46c4g844eg9da9d12cd629" version="1">Firearm Shot</content>
+  <content contentuid="h79d8c5a6gf483g4a41gabdbgba5ef67b3aa7" version="1">Fires a bullet from your firearm.</content>
+  <content contentuid="he0396c0dgf591g49dagbf53gcdfb4c077cb6" version="1">OffHand Firearm Shot</content>
+  <content contentuid="hb49664ddgc0b4g48adg80a4g06048d4fc743" version="1">Fires a bullet from your firearm.</content>
+  <content contentuid="h6e5d68a5g7e3eg4abegbba5g3c69a140632f" version="1">You've become well versed with firearms.</content>
+  <content contentuid="heaac488dg36f5g414egad10gd575bea417f0" version="1">Fire a bullet with increased damage, but -5 to attack.</content>
+  <content contentuid="h960459cbgff1fg4697gb9a2g80606d2cc728" version="1">Main-hand Ammo</content>
+  <content contentuid="h3aeb341fge990g409dgac12g662c1f61732c" version="1">Number of Shots remaining before you need to reload your main firearm.</content>
+  <content contentuid="h2bb20078gf31eg4f02gb80cg06bfd0a620c4" version="1">Off-hand Ammo</content>
+  <content contentuid="h991ca10dg0a6dg41d5ga6e8gbbeeb8167f84" version="1">Number of Shots remaining before you need to reload your off-hand firearm.</content>
+  <content contentuid="hd2d5dbbag1cebg43eag8122g774caf27edb0" version="1">Longarm Ammo</content>
+  <content contentuid="h45ffcacfg2980g46ccg871fgb7cc0e51a00f" version="1">Number of Shots remaining before you need to reload your longarms.</content>
+  <content contentuid="h31c50188g96b7g4eb0gacbeg229739193901" version="1">Main-hand Reload</content>
+  <content contentuid="h1bf007a4gdbaeg4274g86fcg0c25896edd3b" version="1">Reloads the firearm in your main-hand.</content>
+  <content contentuid="hb37d1777gb604g4336gaa01gcdc8cce70e15" version="1">Off-hand Reload</content>
+  <content contentuid="hfe3552dcg9244g4ee0gb783gdb8df4eaa156" version="1">Reloads the firearm in your off-hand</content>
+  <content contentuid="h6a0eb232g006bg4b09g99cbgef43437d19ab" version="1">Full Reload</content>
+  <content contentuid="h3147f598gc1fag46b2g8715g136fc17d2439" version="1">Reloads both firearms simultaneously.</content>
+  <content contentuid="h80cf339dg28efg48feg8494g3bef2b99b6c7" version="1">Longarm Reload</content>
+  <content contentuid="h2f2ed633gab74g4914g9388gb93dcd225109" version="1">Reloads longarms simultaneously.</content>
+</contentList>

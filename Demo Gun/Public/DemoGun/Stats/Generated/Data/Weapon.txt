@@ -1,0 +1,9 @@
+//Demo Gun
+
+new entry "ATO_Demo_Gun"
+type "Weapon"
+using "_Firearm_Pistol"
+data "RootTemplate" "81621539-a1e7-492a-9607-283d15b94ffb"
+data "Damage" "1d10+2"
+data "ValueLevel" "1"
+data "Weight" "1.5"
