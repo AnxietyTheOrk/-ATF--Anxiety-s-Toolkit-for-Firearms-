@@ -86,14 +86,14 @@ data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Lon
 new entry "_Firearm_Blunderbuss_1"
 type "Weapon"
 using "_Firearm_LongGun_1"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 
 new entry "_Firearm_Blunderbuss_2"
 type "Weapon"
 using "_Firearm_LongGun_2"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
 
 new entry "_Firearm_Blunderbuss_3"
 type "Weapon"
 using "_Firearm_LongGun_3"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical)"
